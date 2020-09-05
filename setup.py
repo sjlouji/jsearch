@@ -11,7 +11,7 @@ setup(
     description="It implements all search algorithms",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/sjlouji/PySearch.git",
+    url="https://github.com/sjlouji/jsearch.git",
     author="Joan Louji",
     author_email="sjlouji10@gmail.com",
     license="MIT",
