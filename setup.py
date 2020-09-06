@@ -21,7 +21,7 @@ setup(
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
     ],
-    packages=["pysearch"],
+    packages=["jsearch"],
     include_package_data=True,
     install_requires=[],
     entry_points={
