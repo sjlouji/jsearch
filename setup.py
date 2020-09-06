@@ -26,7 +26,7 @@ setup(
     install_requires=[],
     entry_points={
         "console_scripts": [
-            "pysearch=src.__main__:main",
+            "jsearch=src.__main__:main",
         ]
     },
 )
